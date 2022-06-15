@@ -1,2 +1,4 @@
 # BTN3A3_IAV
-Online supplementary for our study on the NP-dependent Influenza A virus evasion of the human BTN3A3 anti-viral response
+Online supplementary for our study [Zoonotic avian influenza viruses evade human BTN3A3 restriction]()
+
+📊 Explore NP site variation in the [Observable notebook here](https://observablehq.com/@spyros-lytras/flu-np-site-variation).
